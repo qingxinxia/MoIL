@@ -1,9 +1,5 @@
-# CL-HAR
-
-CL-HAR is an open-source PyTorch library of contrastive learning on wearable-sensor-based human activity recognition (HAR). For more information, please refer to our KDD-2022 paper ["What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?"](https://arxiv.org/abs/2202.05998 ).
-
-For more of our results, please refer to [results.md](results.md)
-
+# MoIL
+MoIL
 ## Installation Requirements
 To install required packages, run the following code. The current Pytorch version is 1.8.
 
