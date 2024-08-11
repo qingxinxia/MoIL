@@ -1,6 +1,8 @@
 # MoIL
 Update: Our previous work has been accepted by PerCom (WorkShop) 2024 and won the "Best WiP Paper Award". [link](https://percom.org/2024/awards/)
 
+The implementation of the SSL baselines is mainly based on the excellent work CL-HAR [link](https://github.com/Tian0426/CL-HAR).
+
 ## Quick Start
 This is our proposed method MoIL (CNNRNN)
 
@@ -84,6 +86,7 @@ Part of the contrastive models are adapted from
 - https://github.com/lucidrains/byol-pytorch
 - https://github.com/lightly-ai/lightly
 - https://github.com/emadeldeen24/TS-TCC
+- https://github.com/harkash/contrastive-predictive-coding-for-har
 
 Loggers used in the repo are adapted from 
 - https://github.com/emadeldeen24/TS-TCC
